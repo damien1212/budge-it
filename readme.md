@@ -11,8 +11,11 @@ But none of them quite have all the stuff I want. Hopefully in the end this will
 do all of the things I want out of budgeting software.
 
 Most likely it'll be taking some inspiration from [Homebank][], [Mint][], and
-[GNUCash][]. Check them out!
+[GnuCash][]. Check them out!
 
 [Homebank]: http://homebank.free.fr/
 [Mint]: https://www.mint.com/
-[GNUCash]: https://www.gnucash.org/
+[GnuCash]: https://www.gnucash.org/
+
+It runs on Node 7.10.0, with Express. Check [package.json](package.json) for
+more information about library dependencies.
